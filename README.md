@@ -1,1 +1,4 @@
-# masa-check-balance-main
+## Installation
+```bash
+npm masa-check-balance-main
+```
